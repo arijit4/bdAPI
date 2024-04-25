@@ -4,11 +4,29 @@ This repository aims at making a public and free API to access sorted data of al
 
 ### Usage
 
-Load this following URL with your prefered system and environment. This URL returns the raw JSON of all details I've currently managed to gather.
-``` url
-https://raw.githubusercontent.com/arijit4/bdAPI/master/all_districts.json
+You just need to follow the 3 simple steps:
+1. Navigate to the preferred `JSON` file.
+2. Copy the URL of the file.
+3. Replace the `github.com` with `raw.githubusercontent.com`
+  
+and you are good to go!
+
+### Example
+
+Let's say, we wanna get the `divisions.json`.
+
+First, we get the URL to the `divisions.json` file which is 
+```
+https://github.com/arijit4/bdAPI/blob/master/divisions/divisions.json
 ```
 
+Then, we replace `github.com` with `raw.githubusercontent.com`.
+
+Now the URL should be
+```
+https://raw.githubusercontent.com/arijit4/bdAPI/blob/master/divisions/divisions.json
+```
+And you use this URL for your API usage.
 ### Response structure
 
 ``` javascript
@@ -36,7 +54,7 @@ https://raw.githubusercontent.com/arijit4/bdAPI/master/all_districts.json
 
 ### Future
 
-I plan to extend the API to a database. I will try to add fields like `division`, `year_establised`, `historical_places`, `famous_for` and many more whenever I find enough resources to do so.
+I plan to extend the API to a database. I will try to add fields like `year_establised`, `historical_places`, `famous_for` and many more whenever I find enough resources to do so.
 
 I know most of the info I plan to include are already available in the official websites of the respective districts. But inputting them one by one manually seems real difficult for me.
 
