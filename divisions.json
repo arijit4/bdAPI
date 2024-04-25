@@ -1,0 +1,50 @@
+[
+	{
+		"id": 1,
+		"name": "Sylhet",
+		"bn_name": "\u09b8\u09bf\u09b2\u09c7\u099f",
+		"url": "www.sylhetdiv.gov.bd"
+	},
+	{
+		"id": 7234,
+		"name": "Mymensingh",
+		"bn_name": "\u09ae\u09df\u09ae\u09a8\u09b8\u09bf\u0982\u09b9",
+		"url": "www.mymensinghdiv.gov.bd"
+	},
+	{
+		"id": 9492,
+		"name": "Rajshahi",
+		"bn_name": "\u09b0\u09be\u099c\u09b6\u09be\u09b9\u09c0",
+		"url": "www.rajshahidiv.gov.bd"
+	},
+	{
+		"id": 22464,
+		"name": "Barishal",
+		"bn_name": "\u09ac\u09b0\u09bf\u09b6\u09be\u09b2",
+		"url": "barishaldiv.gov.bd"
+	},
+	{
+		"id": 30773,
+		"name": "Chattogram",
+		"bn_name": "\u099a\u099f\u09cd\u099f\u0997\u09cd\u09b0\u09be\u09ae",
+		"url": "chattogramdiv.gov.bd"
+	},
+	{
+		"id": 50110,
+		"name": "Dhaka",
+		"bn_name": "\u09a2\u09be\u0995\u09be ",
+		"url": "www.dhakadiv.gov.bd"
+	},
+	{
+		"id": 69492,
+		"name": "Rangpur",
+		"bn_name": "\u09b0\u0982\u09aa\u09c1\u09b0",
+		"url": "www.rangpurdiv.gov.bd"
+	},
+	{
+		"id": 81633,
+		"name": "Khulna",
+		"bn_name": "\u0996\u09c1\u09b2\u09a8\u09be",
+		"url": "www.khulnadiv.gov.bd"
+	}
+]
