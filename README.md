@@ -20,11 +20,11 @@ First, we get the URL to the `divisions.json` file which is
 https://github.com/arijit4/bdAPI/blob/master/divisions/divisions.json
 ```
 
-Then, we replace `github.com` with `raw.githubusercontent.com`.
+Then, we replace `github.com` with `raw.githubusercontent.com` and `blob` with `refs/heads`.
 
 Now the URL should be
 ```
-https://raw.githubusercontent.com/arijit4/bdAPI/blob/master/divisions/divisions.json
+https://raw.githubusercontent.com/arijit4/bdAPI/refs/heads/master/divisions/divisions.json
 ```
 And you use this URL for your API usage.
 ### Response structure
