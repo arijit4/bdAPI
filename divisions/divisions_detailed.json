@@ -1,9 +1,9 @@
 [
   {
-    "name": "Sylhet",
+    "name": "Dhaka",
     "bn_name": "\u09b8\u09bf\u09b2\u09c7\u099f",
     "id": 1,
-    "url": "www.sylhetdiv.gov.bd",
+    "url": "www.dhakadiv.gov.bd",
     "districts": {
       "total": 13,
       "list": [
@@ -811,10 +811,10 @@
     }
   },
   {
-    "name": "Mymensingh",
+    "name": "Rajshahi",
     "bn_name": "\u09ae\u09df\u09ae\u09a8\u09b8\u09bf\u0982\u09b9",
     "id": 7234,
-    "url": "www.mymensinghdiv.gov.bd",
+    "url": "www.rajshahidiv.gov.bd",
     "districts": {
       "total": 8,
       "list": [
@@ -1305,10 +1305,10 @@
     }
   },
   {
-    "name": "Rajshahi",
+    "name": "Sylhet",
     "bn_name": "\u09b0\u09be\u099c\u09b6\u09be\u09b9\u09c0",
     "id": 9492,
-    "url": "www.rajshahidiv.gov.bd",
+    "url": "www.sylhetdiv.gov.bd",
     "districts": {
       "total": 4,
       "list": [
@@ -1644,10 +1644,10 @@
     }
   },
   {
-    "name": "Barishal",
+    "name": "Mymensingh",
     "bn_name": "\u09ac\u09b0\u09bf\u09b6\u09be\u09b2",
     "id": 22464,
-    "url": "barishaldiv.gov.bd",
+    "url": "www.mymensinghdiv.gov.bd",
     "districts": {
       "total": 4,
       "list": [
@@ -2715,10 +2715,10 @@
     }
   },
   {
-    "name": "Dhaka",
+    "name": "Rangpur",
     "bn_name": "\u09a2\u09be\u0995\u09be ",
     "id": 50110,
-    "url": "www.dhakadiv.gov.bd",
+    "url": "www.rangpurdiv.gov.bd",
     "districts": {
       "total": 8,
       "list": [
@@ -3235,10 +3235,10 @@
     }
   },
   {
-    "name": "Rangpur",
+    "name": "Khulna",
     "bn_name": "\u09b0\u0982\u09aa\u09c1\u09b0",
     "id": 69492,
-    "url": "www.rangpurdiv.gov.bd",
+    "url": "www.khulnadiv.gov.bd",
     "districts": {
       "total": 10,
       "list": [
@@ -3724,10 +3724,10 @@
     }
   },
   {
-    "name": "Khulna",
+    "name": "Barishal",
     "bn_name": "\u0996\u09c1\u09b2\u09a8\u09be",
     "id": 81633,
-    "url": "www.khulnadiv.gov.bd",
+    "url": "barishaldiv.gov.bd",
     "districts": {
       "total": 6,
       "list": [
